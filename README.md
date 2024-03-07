@@ -121,6 +121,7 @@
 | :-------------------: | :-------------------: |
 |![img](https://github.com/pocketgodru/SiriusAI-QA/assets/126785140/04ff6d1c-38d7-4411-b6cb-354b92dcad86)| ![img](https://github.com/pocketgodru/SiriusAI-QA/assets/126785140/9e240755-effd-4ea4-bcb7-0ecafd9a2961) |
 
+Как можно заметить наша модель лучше детектирует людей при одинаковой скорости работы.
 
 ## Создание алгоритма для первой системы
 
