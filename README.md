@@ -150,7 +150,8 @@
 
 Для создания макета интерфейса мы воспользуемся популярным приложением для создания дизайна - Figma
 
-![photo_2024-03-29_12-04-43](https://github.com/pocketgodru/SiriusAI-QA/assets/104260621/f1c7a500-08d4-43c5-9394-c6cae9ba8778)
+![photo_2024-03-29_12-14-11](https://github.com/pocketgodru/SiriusAI-QA/assets/104260621/23de4b4d-715a-46d3-9dfb-ebdc18eddb3c)
+
 
 В интерфейсе имеется:
 
