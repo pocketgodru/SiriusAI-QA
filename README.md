@@ -155,7 +155,7 @@
 
 Для создания макета интерфейса мы воспользуемся популярным приложением для создания дизайна - Figma
 
-![photo_2024-03-29_12-14-11](https://github.com/pocketgodru/SiriusAI-QA/assets/104260621/23de4b4d-715a-46d3-9dfb-ebdc18eddb3c)
+<img alt="Interface" src="https://github.com/pocketgodru/SiriusAI-QA/assets/104260621/23de4b4d-715a-46d3-9dfb-ebdc18eddb3c">
 
 
 В интерфейсе имеется:
@@ -189,4 +189,4 @@
 ## Система подсчета людей
 Наша система разделения помещения на части — очередь и обеденная зона. Затем, с использованием обученной модели нейронной сети, мы проводим обнаружение людей на видеопотоке и подсчитываем их количество
 
-![photo_2024-03-29_21-36-20](https://github.com/pocketgodru/SiriusAI-QA/assets/104260621/a0aebb5c-610e-4500-9b9a-375d4b7252da)
+_Демонстрацию работы системы:_ https://disk.yandex.ru/d/baRq8MeyGvizLQ
